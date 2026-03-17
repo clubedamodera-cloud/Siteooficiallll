@@ -1,0 +1,5 @@
+{
+  "name": "iPhone Store E-commerce",
+  "description": "A modern, responsive, and functional e-commerce site for selling new and pre-owned iPhones, featuring a product management panel and integration with Mercado Pago for checkout.",
+  "requestFramePermissions": []
+}
